@@ -1,0 +1,3 @@
+C:/Users/luca_/CLionProjects/media 3 voti/cmake-build-debug/CMakeFiles/media_3_voti.dir
+C:/Users/luca_/CLionProjects/media 3 voti/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luca_/CLionProjects/media 3 voti/cmake-build-debug/CMakeFiles/rebuild_cache.dir
